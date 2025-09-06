@@ -81,12 +81,12 @@ DeepLearning_Assignment1/
 
 1. **Install Python dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_assignment.txt
 ```
 
 2. **Run the classifier:**
 ```bash
-python multiclass_classifier.py
+python multiclass_classifier_assignment.py
 ```
 
 ## Expected Output
